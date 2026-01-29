@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jehan Macararic</h1>
-<h3 align="center">A passionate developer from around the world</h3>
+<h1 align="center">Hi , I'm Jehan Macararic 🎀</h1>
+<h3 align="center">A passionate Web developer</h3>
 
 ---
 
-🌱 **Currently working on:** MERN Stack Project  
+
 📫 **How to reach me:** **jehanmacararic.05@gmail.com**
 
 ---
